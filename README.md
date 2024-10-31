@@ -1,1 +1,1 @@
-Source code taken from [www.grapevinelarp.com](https://www.grapevinelarp.com/). This repo is for reference purposes, with the intent of building a new version built with modern tools and frameworks.
+Source code taken from [www.grapevinelarp.com](https://www.grapevinelarp.com/). This repo is for reference purposes only, with the intent of building a new version built with modern tools and frameworks. You're welcome to fork the repo if you so wish to, but we will not be accepting any PRs or tracking issues for this code.
